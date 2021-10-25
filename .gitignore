@@ -1,0 +1,5 @@
+# Diaris
+logs
+*.log
+# Dependències
+node_modules
